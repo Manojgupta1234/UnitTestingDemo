@@ -1,0 +1,6 @@
+C:\HobbyProjects\AngularJsUnitTestingDemo\AngularJsUnitTestingDemo\bin\AngularJsUnitTestingDemo.dll.config
+C:\HobbyProjects\AngularJsUnitTestingDemo\AngularJsUnitTestingDemo\bin\AngularJsUnitTestingDemo.dll
+C:\HobbyProjects\AngularJsUnitTestingDemo\AngularJsUnitTestingDemo\bin\AngularJsUnitTestingDemo.pdb
+C:\HobbyProjects\AngularJsUnitTestingDemo\AngularJsUnitTestingDemo\obj\Debug\AngularJsUnitTestingDemo.dll
+C:\HobbyProjects\AngularJsUnitTestingDemo\AngularJsUnitTestingDemo\obj\Debug\AngularJsUnitTestingDemo.pdb
+C:\HobbyProjects\AngularJsUnitTestingDemo\AngularJsUnitTestingDemo\obj\Debug\AngularJsUnitTestingDemo.csprojResolveAssemblyReference.cache
